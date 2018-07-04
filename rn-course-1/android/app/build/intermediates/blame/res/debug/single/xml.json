@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
     }
 ]

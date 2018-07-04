@@ -32,7 +32,7 @@ class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Loadedasd</Text>
+        <Text>Hello Sreekesh</Text>
         <PlaceDetail
           selectedPlace={this.props.selectedPlace}
           onItemDeleted={this.placeDeletedHandler}

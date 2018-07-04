@@ -4,6 +4,14 @@
         "source": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
