@@ -46,6 +46,8 @@ public class MainApplication extends NavigationApplication {
   //   SoLoader.init(this, /* native exopackage */ false);
   // }
 
+  
+
   @Override
   public boolean isDebug() {
       // Make sure you are using BuildConfig from your own application
@@ -56,6 +58,7 @@ public class MainApplication extends NavigationApplication {
       // Add additional packages you require here
       // No need to add RnnPackage and MainReactPackage
       return Arrays.<ReactPackage>asList(
+        new MainReactPackage(),
         new VectorIconsPackage()
       );
   }
@@ -64,8 +67,8 @@ public class MainApplication extends NavigationApplication {
   public List<ReactPackage> createAdditionalReactPackages() {
       return getPackages();
   }
-  @Override
-public String getJSMainModuleName() {
-    return "index";
-}
+//   @Override
+// public String getJSMainModuleName() {
+//     return "index";
+// }
 }

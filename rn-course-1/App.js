@@ -1,79 +1,15 @@
-import React, { Component } from "react";
-import { StyleSheet, View, Text } from "react-native";
-import { connect } from "react-redux";
-import PlaceInput from "./src/components/PlaceInput/PlaceInput";
-import PlaceList from "./src/components/PlaceList/PlaceList";
-import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
-import {
-  addPlace,
-  deletePlace,
-  selectPlace,
-  deselectPlace
-} from "./src/store/actions/index";
-import placeImage from "./src/assets/uncle_sam.jpg";
+import { Navigation } from 'react-native-navigation';
+import AuthScreen from './src/screens/Auth/Auth';
+// Register Screens
 
-class App extends Component {
-  placeAddedHandler = placeName => {
-    this.props.onAddPlace(placeName);
-  };
+Navigation.registerComponent("rncourse1.AuthScreen", () => AuthScreen);
 
-  placeSelectedHandler = key => {
-    this.props.onSelectedPlace(key);
-  };
+// Start a App
 
-  placeDeletedHandler = () => {
-    this.props.onDeletePlace();
-  };
-
-  modalClosedHandler = () => {
-    this.props.onDeselectPlace();
-  };
-
-  render() {
-    return (
-      <View style={styles.container}>
-        <Text>Hello Sreekesh</Text>
-        <PlaceDetail
-          selectedPlace={this.props.selectedPlace}
-          onItemDeleted={this.placeDeletedHandler}
-          onModalClosed={this.modalClosedHandler}
-        />
-        <PlaceInput onPlaceAdded={this.placeAddedHandler} />
-        <PlaceList
-          places={this.props.places}
-          onItemSelected={this.placeSelectedHandler}
-        />
-      </View>
-    );
-  }
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    padding: 26,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "flex-start"
+Navigation.startSingleScreenApp({
+  screen: {
+    screen: "rncourse1.AuthScreen",
+    title: "Login",
   }
 });
 
-const mapStateToProps = state => {
-  return {
-    places: state.places.places,
-    selectedPlace: state.places.selectedPlace
-  };
-};
-
-const mapDispatchToProps = dispatch => {
-  return {
-    onAddPlace: name => dispatch(addPlace(name)),
-    onDeletePlace: () => dispatch(deletePlace()),
-    onSelectedPlace: key => dispatch(selectPlace(key)),
-    onDeselectPlace: () => dispatch(deselectPlace())
-  };
-};
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(App);

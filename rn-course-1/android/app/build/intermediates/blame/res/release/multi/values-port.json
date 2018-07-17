@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "D:\\Projects\\ReactJS\\ReactNative\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,37 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "D:\\Projects\\ReactJS\\ReactNative\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
+                    "file": "D:\\Projects\\ReactJS\\ReactNative\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-port\\values-port.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 55,
-                        "endOffset": 331
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "D:\\Projects\\ReactJS\\ReactNative\\Git ReactNative\\RN Course Clone 2\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 55,
-                        "endOffset": 331
+                        "endOffset": 106
                     }
                 }
             }

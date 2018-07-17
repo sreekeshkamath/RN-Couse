@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="E:\InstalledProgramsForNoSpaces\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_10c456652218620d677d818c4f76ffbb033e240c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -12,12 +21,273 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_8dd2e05ca3ea599e731d85090611d4647f188798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_690c005b8a3eec198816a14905cd46373f8efdc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_143278ffc5c079b659c697487c469fdc9c9d1f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_26ad6f1760449526d803c284fa15f4c6fc7b730b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ea23eef78b6e8696673578fd722baa59019aa847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_295b55285e49be8dae033fe0da5c47cd44f08f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_e785476cc741f3869eb84fac73ab2ee258332345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_62052a3b62ffea4ccbe2ca1994d690a5b6263820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_20896442f7b39293000f538026d24696989abc67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_62052a3b62ffea4ccbe2ca1994d690a5b6263820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_492409761e8cd7066298e05abc6024dc3ccfaa55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_41fc59ecbac8af1651fbc86e5696b07903ae74ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_bc992d16cd53eb1ac0f2c46ac5119c10b7eafde7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\rncourse1\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25b8cd87cca130b10be7bbec4508bfcc053dcd25">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\rncourse1-react-native-navigation-unspecified_6e35c378436a76911d1fa97d9420f1bb5f86c34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_850d0d7f4ec7d8e5f34154521c85a5cab2f73782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_86f1cc69b400e87ad6f7e7a653cda908ffa1ec48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\InstalledProgramsForNoSpaces\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_f2c86ee8d37486a38a0bcc50cb1defe1cb2546e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c9d38081233b50b374147be4d42bb495b2dee1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ba9477c0f878a7e57d54d0822370699ed794cb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_3905492544a2c6277bdae09202c9d0d372cff5b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_244ea9cb430a476d4e22823ec8360edaa3af880f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_86df17047bda19f7c8b438a399997d9abf873145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ba9477c0f878a7e57d54d0822370699ed794cb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_f3b204479e38d3ee2af9feab6f46e9d22ad084ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_e855b9a9dcc2c2ece357cc5f3c98cc4687d2cb3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_fdb78399fdb1963fc7c850df889ee8aa1f34c08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c9d38081233b50b374147be4d42bb495b2dee1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_d08a56c165d88f696ad364cf52fa853de1c0aa51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_4365b122567fc79e8ce7fea45f1ee085da2a3f1b.jar" />
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_a448d54e60011de131d29db5b774400b1e1bd789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_7c68814abaa371910eba4cdd508829113f91def8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,30 +309,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_55ad1dccd6f33c0be157f5469f6f1ebe2e2e3a1f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_295b55285e49be8dae033fe0da5c47cd44f08f3f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_104f5024a566dd3467a44bb006d927666a0b1085.jar" />
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_2e18746371625846b5fc547bb2d85b2463f7eef8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,48 +354,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_126ac889018907e41b1110ef553355b5d2b4d271.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_0e9cd5b332cf78ccb2631d98b9b692accd9c489f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_62052a3b62ffea4ccbe2ca1994d690a5b6263820.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_41fc59ecbac8af1651fbc86e5696b07903ae74ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
+        revision="25.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2a5f562bbeee66e85555079373bc2746bb1651df.jar" />
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_451f953a10d73d2f5fc5e8657935524f93a3089c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,48 +372,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_23793466126a5700054eda8d1467579ea3250b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
         <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_8125a21431d05fe2f6eca0b9ee9f038bf2181794.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a83ec4b00525c1a90da3f6a8228e1a16a38d27c1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bbb4ebf2d8dac8ba807630750a43fed0d60f7263.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_86f1cc69b400e87ad6f7e7a653cda908ffa1ec48.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\InstalledProgramsForNoSpaces\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_f2c86ee8d37486a38a0bcc50cb1defe1cb2546e2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -210,12 +399,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ba9477c0f878a7e57d54d0822370699ed794cb94.jar" />
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_f54747bbca55356ff72f928adbb7d0644713c4f3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,57 +417,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_dca48662ad135375d0236f1f84a5c8b25b7f947b.jar" />
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_7e69eb6576fa58027b8dd1e5fbd58c733206de62.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_244ea9cb430a476d4e22823ec8360edaa3af880f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_1fd7f40165a8b91ee6e2948a19c851f7fb1b27d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_6d38b0bf14e96f4af0af86f2bf6216ab3674bc75.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_35773aeb184dcd10a6d8463f61ed53db002f94fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c9d38081233b50b374147be4d42bb495b2dee1b5.jar" />
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_57672cc92a342605c3438253202a0cce2ebec1bf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -291,21 +444,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\rncourse1\react-native-vector-icons\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_4c58f817a9ece0011fc1eb352b116ee079928776.jar" />
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\rncourse1-react-native-vector-icons-unspecified_fa195bae1a46dacd9375e7bf39a19ce6be4cc93f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\rncourse1\react-native-vector-icons\unspecified\jars\classes.jar"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="D:\Projects\ReactJS\ReactNative\Git ReactNative\RN Course Clone 2\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\rncourse1-react-native-vector-icons-unspecified_936b7a2891cd45d46627477bfb55af073e17e5f0.jar" />
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_589e09554cc54434e32701b3d6ae163573ab6837.jar" />
     </item>
     <item
         is-multidex="false"
@@ -315,6 +468,51 @@
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="D:\Projects\ReactJS\ReactNative\rn-course-1\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_d216b5102546f48cc234b33cebe561cdb0c892c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_ab6519c0caf85d16db9ce10ded7eb5172d4abc4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3092b656cf1c5a8d40f50f5e0f690d0f5a4292fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_118b4e9d5d7ef4c2fd033f576944f867ca1266e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sreek\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_d216b5102546f48cc234b33cebe561cdb0c892c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Projects\ReactJS\ReactNative\RN-Couse\rn-course-1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_462e9e5e681fb367453d238e9851f6ca9db8b669.jar" />
     </item>
 
 </items>
