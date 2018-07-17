@@ -4,6 +4,7 @@ import configureStore from "./src/store/configureStore";
 import AuthScreen from "./src/screens/Auth/Auth";
 import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
 import FindPlaceScreen from "./src/screens/FindPlace/FindPlace";
+import PlaceDetailScreen from "./src/screens/PlaceDetail/PlaceDetail";
 // Register Screens
 const store = configureStore();
 Navigation.registerComponent("rncourse1.AuthScreen", () => AuthScreen);
@@ -19,7 +20,12 @@ Navigation.registerComponent(
   store,
   Provider
 );
-
+Navigation.registerComponent(
+  "rncourse1.PlaceDetailScreen",
+  () => PlaceDetailScreen,
+  store,
+  Provider
+);
 // Start a App
 
 Navigation.startSingleScreenApp({
