@@ -5,6 +5,7 @@ import AuthScreen from "./src/screens/Auth/Auth";
 import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
 import FindPlaceScreen from "./src/screens/FindPlace/FindPlace";
 import PlaceDetailScreen from "./src/screens/PlaceDetail/PlaceDetail";
+import SideDrawer from "./src/screens/SideDrawer/SideDrawer";
 // Register Screens
 const store = configureStore();
 Navigation.registerComponent("rncourse1.AuthScreen", () => AuthScreen);
@@ -25,6 +26,10 @@ Navigation.registerComponent(
   () => PlaceDetailScreen,
   store,
   Provider
+);
+Navigation.registerComponent(
+  "rncourse1.SideDrawer",
+  () => SideDrawer,
 );
 // Start a App
 
