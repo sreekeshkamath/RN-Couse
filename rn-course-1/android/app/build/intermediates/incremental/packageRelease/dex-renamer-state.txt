@@ -1,4 +1,4 @@
-#Sun Jul 29 14:29:55 IST 2018
+#Mon Jul 30 08:21:04 IST 2018
 base.0=D\:\\Projects\\ReactJS\\ReactNative\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\Projects\\ReactJS\\ReactNative\\RN-Couse\\rn-course-1\\android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
