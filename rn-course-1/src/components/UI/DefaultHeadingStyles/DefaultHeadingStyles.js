@@ -11,7 +11,8 @@ const defaultHeadingStyles = props => (
 const styles = StyleSheet.create({
     textHeading : {
         fontSize : 32,
-        fontWeight : "bold"
+        fontWeight : "bold",
+        color: "#eee"
     }
 });
 
