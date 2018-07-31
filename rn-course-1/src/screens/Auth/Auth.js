@@ -10,7 +10,8 @@ import {
 import startTabs from "../MainTabs/startMainTabs";
 import DefaultInput from "../../components/UI/DefaultInputStyles/DefaultInputStyles";
 import DefaultHeading from "../../components/UI/DefaultHeadingStyles/DefaultHeadingStyles";
-import backgroundImage from "../../assets/bg.jpg"
+import DefaultButton from "../../components/UI/DefaultButtonStyles/DefaultButtonStyles";
+import backgroundImage from "../../assets/bg.jpg";
 class AuthScreen extends Component {
     loginHandler = () => {
         startTabs();
@@ -20,7 +21,7 @@ class AuthScreen extends Component {
             <ImageBackground source = {backgroundImage} style = {styles.imageBackground}>
                 <View style={styles.container}>
                     <DefaultHeading>Please Log In</DefaultHeading>
-                    <Button title="Switch to Login" />
+                    <DefaultButton onPress = {() => alert("clicked")}>Switch to Login</DefaultButton>
                     <View style={styles.inputContainer}>
                         <DefaultInput
                             style={styles.input}
@@ -29,7 +30,7 @@ class AuthScreen extends Component {
                         <DefaultInput placeholder="Password" />
                         <DefaultInput placeholder="Confirm Password" />
                     </View>
-                    <Button title="Submit" onPress={this.loginHandler} />
+                    <DefaultButton onPress={this.loginHandler} >Submit</DefaultButton>
                 </View>
             </ImageBackground>
         );
